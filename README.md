@@ -20,8 +20,11 @@ Sudoku Solvers
 Most use a fairly similar design, but I have tried to be true to the language. I have removed some because I couldn't get through them without saying, "Wow, I don't like this language."
 
 Here they are:
-- [Swift](https://github.com/maxtremaine/sudokuSolver.swift)
-- [Rust](https://github.com/maxtremaine/sudoku_solver)
-- [Python](https://github.com/maxtremaine/sudoku_solver.py)
-- [JavaScript](https://github.com/maxtremaine/sudokuSolver.js)
-- [TypeScript](https://github.com/maxtremaine/sudokuSolver.ts)
+
+|Language                                                      | Solve Time (Same Puzzle, in ms) |
+|:------------------------------------------------------------ | -------------------------------:|
+| [JavaScript](https://github.com/maxtremaine/sudokuSolver.js) |                              74 |
+| [Python](https://github.com/maxtremaine/sudoku_solver.py)    |                             108 |
+| [Rust](https://github.com/maxtremaine/sudoku_solver)         |                             283 |
+| [Swift](https://github.com/maxtremaine/sudokuSolver.swift)   |                             979 |
+| [TypeScript](https://github.com/maxtremaine/sudokuSolver.ts) |                    (incomplete) |
