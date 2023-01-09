@@ -3,7 +3,7 @@ Max Tremaine's Github Profile
 
 CEO @ [sherpa°](https://www.joinsherpa.com)
 
-Coding is mostly for fun, now.
+Coding is mostly for fun.
 
 Public Repositories
 -------------------
