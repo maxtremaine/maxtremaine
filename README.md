@@ -27,4 +27,3 @@ Here they are:
 | [Python](https://github.com/maxtremaine/sudoku_solver.py)    |                             108 |
 | [Rust](https://github.com/maxtremaine/sudoku_solver)         |                             283 |
 | [Swift](https://github.com/maxtremaine/sudokuSolver.swift)   |                             979 |
-| [TypeScript](https://github.com/maxtremaine/sudokuSolver.ts) |                    (incomplete) |
