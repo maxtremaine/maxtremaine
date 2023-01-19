@@ -8,7 +8,7 @@ Coding is mostly for fun.
 Public Repositories
 -------------------
 
-- [Max Tremaine Dot Com](https://github.com/maxtremaine/max-tremaine-dot-com) or [maxtremaine.github.io](https://github.com/maxtremaine/maxtremaine.github.io): My personal website. Not as exciting as me IRL.
+- [maxtremaine.github.io](https://github.com/maxtremaine/maxtremaine.github.io): My personal website. Not as exciting as me IRL.
 - [REPEATRANGE](https://github.com/maxtremaine/REPEATRANGE): Custom formula for Google Sheets. Repeats a range.
 - [SVG Clock](https://github.com/maxtremaine/svg-clock): I like clocks, so I made one in SVG. It ticks.
 
