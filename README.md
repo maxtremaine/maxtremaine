@@ -21,9 +21,9 @@ Most use a fairly similar design, but I have tried to be true to the language. I
 
 Here they are:
 
-|Language                                                      | Solve Time (Same Puzzle, in ms) |
-|:------------------------------------------------------------ | -------------------------------:|
-| [JavaScript](https://github.com/maxtremaine/sudokuSolver.js) |                              74 |
-| [Python](https://github.com/maxtremaine/sudoku_solver.py)    |                             108 |
-| [Rust](https://github.com/maxtremaine/sudoku_solver)         |                             283 |
-| [Swift](https://github.com/maxtremaine/sudokuSolver.swift)   |                             979 |
+|Language                                                      | Solve Time @ 54 Blanks (ms) |
+|:------------------------------------------------------------ | ---------------------------:|
+| [JavaScript](https://github.com/maxtremaine/sudokuSolver.js) |                          74 |
+| [Python](https://github.com/maxtremaine/sudoku_solver.py)    |                         108 |
+| [Rust](https://github.com/maxtremaine/sudoku_solver)         |                         283 |
+| [Swift](https://github.com/maxtremaine/sudokuSolver.swift)   |                         979 |
