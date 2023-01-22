@@ -27,3 +27,10 @@ Here they are:
 | [Python](https://github.com/maxtremaine/sudoku_solver.py)    |                         108 |                         356 |
 | [Rust](https://github.com/maxtremaine/sudoku_solver)         |                         283 |                         858 |
 | [Swift](https://github.com/maxtremaine/sudokuSolver.swift)   |                         979 |                       3,143 |
+
+Next Languages:
+
+- Go
+- Elixir
+- Scala
+- Elm
