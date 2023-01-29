@@ -24,7 +24,7 @@ Here they are:
 |Language                                                      | Solve Time @ 54 Blanks (ms) |
 |:------------------------------------------------------------ | ---------------------------:|
 | [Go](https://github.com/maxtremaine/sudoku_solver.go.git)    |                          15 |
-| [JavaScript](https://github.com/maxtremaine/sudokuSolver.js) |                          74 |
+| [Node.js](https://github.com/maxtremaine/sudokuSolver.js)    |                          74 |
 | [Python](https://github.com/maxtremaine/sudoku_solver.py)    |                         108 |
 | [Rust](https://github.com/maxtremaine/sudoku_solver)         |                         283 |
 | [Swift](https://github.com/maxtremaine/sudokuSolver.swift)   |                         979 |
