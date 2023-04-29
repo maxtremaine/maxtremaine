@@ -28,7 +28,9 @@ Here they are:
 | [Deno.ts](https://github.com/maxtremaine/sudokuSolver.ts)    |                          66 |
 | [Node.js](https://github.com/maxtremaine/sudokuSolver.js)    |                          74 |
 | [Python](https://github.com/maxtremaine/sudoku_solver.py)    |                         108 |
-| [Swift](https://github.com/maxtremaine/sudokuSolver.swift)   |                         979 |
+| [Swift](https://github.com/maxtremaine/sudokuSolver.swift)*  |                         979 |
+
+\* Swift's slowness is likely solveable.
 
 Next Languages:
 
