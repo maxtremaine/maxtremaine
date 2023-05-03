@@ -25,12 +25,10 @@ Here they are:
 |:------------------------------------------------------------ | ---------------------------:|
 | [Rust](https://github.com/maxtremaine/sudoku_solver)         |                          11 |
 | [Go](https://github.com/maxtremaine/sudoku_solver.go.git)    |                          15 |
+| [Swift](https://github.com/maxtremaine/sudokuSolver.swift)   |                          60 |
 | [Deno.ts](https://github.com/maxtremaine/sudokuSolver.ts)    |                          66 |
 | [Node.js](https://github.com/maxtremaine/sudokuSolver.js)    |                          74 |
 | [Python](https://github.com/maxtremaine/sudoku_solver.py)    |                         108 |
-| [Swift](https://github.com/maxtremaine/sudokuSolver.swift)*  |                         979 |
-
-\* Swift's slowness is likely solveable.
 
 Next Languages:
 
