@@ -28,7 +28,7 @@ Here they are:
 | [Swift](https://github.com/maxtremaine/sudokuSolver.swift)   |                          60 |
 | [Deno.ts](https://github.com/maxtremaine/sudokuSolver.ts)    |                          66 |
 | [Node.js](https://github.com/maxtremaine/sudokuSolver.js)    |                          74 |
-| [Python](https://github.com/maxtremaine/sudoku_solver.py)    |                         108 |
+| [Python](https://github.com/maxtremaine/sudoku_solver.py)    |                          77 |
 
 Next Languages:
 
