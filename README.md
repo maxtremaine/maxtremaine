@@ -35,3 +35,4 @@ Next Languages:
 - Elixir
 - Scala
 - Elm
+- Zig
