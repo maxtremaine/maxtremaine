@@ -34,7 +34,7 @@ Here they are:
 
 Next Languages:
 
-- Elixir
+- [Elixir](https://github.com/maxtremaine/sudoku_solver.ex)
+- [Zig](https://github.com/maxtremaine/sudoku_solver_zig)
 - Scala
 - Elm
-- Zig
