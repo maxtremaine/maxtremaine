@@ -9,6 +9,7 @@ Public Repositories
 -------------------
 
 - [maxtremaine.github.io](https://github.com/maxtremaine/maxtremaine.github.io): My personal website. Not as exciting as me IRL.
+- [sankey-template](https://github.com/maxtremaine/sankey-template): A flexible and portible Sankey Diagram generator in vanilla JavaScript.
 - [mermaid-template](https://github.com/maxtremaine/mermaid-template): A straightforward way to use the most recent Mermaid.js features.
 - [REPEATRANGE](https://github.com/maxtremaine/REPEATRANGE): Custom formula for Google Sheets. Repeats a range.
 - [python-style-range](https://github.com/maxtremaine/python-style-range/): A very basic implementation of the Python 'range' generator in ES6.
