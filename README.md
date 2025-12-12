@@ -24,14 +24,15 @@ Most use a fairly similar design, but I have tried to be true to the language. I
 
 Here they are:
 
-|Language                                                      | Solve Time @ 54 Blanks (ms) |
-|:------------------------------------------------------------ | ---------------------------:|
-| [Rust](https://github.com/maxtremaine/sudoku_solver)         |                          11 |
-| [Go](https://github.com/maxtremaine/sudoku_solver.go.git)    |                          15 |
-| [Swift](https://github.com/maxtremaine/sudokuSolver.swift)   |                          60 |
-| [Deno.ts](https://github.com/maxtremaine/sudokuSolver.ts)    |                          66 |
-| [Node.js](https://github.com/maxtremaine/sudokuSolver.js)    |                          74 |
-| [Python](https://github.com/maxtremaine/sudoku_solver.py)    |                          77 |
+|Language                                                                                    | Solve Time @ 54 Blanks (ms) |
+|:------------------------------------------------------------------------------------------ | ---------------------------:|
+| [Rust](https://github.com/maxtremaine/sudoku_solver)                                       |                          11 |
+| [Go](https://github.com/maxtremaine/sudoku_solver.go.git)                                  |                          15 |
+| [Swift](https://github.com/maxtremaine/sudokuSolver.swift)                                 |                          60 |
+| [Deno.ts](https://github.com/maxtremaine/sudokuSolver.ts)                                  |                          66 |
+| [Node.js](https://github.com/maxtremaine/sudokuSolver.js)                                  |                          74 |
+| [Python](https://github.com/maxtremaine/sudoku_solver.py)                                  |                          77 |
+| [Pandas](https://github.com/maxtremaine/sudoku_solver.py/blob/master/solve_with_pandas.py) |                       1,553 |
 
 Next Languages:
 
