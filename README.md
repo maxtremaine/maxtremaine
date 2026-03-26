@@ -8,6 +8,7 @@ Coding is mostly for fun.
 Public Repositories
 -------------------
 
+- [ai-playbook](https://github.com/maxtremaine/ai-playbook): Workflows that I use with AI assistants, and a simple build system for shared constants.
 - [maxtremaine.github.io](https://github.com/maxtremaine/maxtremaine.github.io): My personal website. Not as exciting as me IRL.
 - [sankey-template](https://github.com/maxtremaine/sankey-template): A flexible and portible Sankey Diagram generator in vanilla JavaScript.
 - [mermaid-template](https://github.com/maxtremaine/mermaid-template): A straightforward way to use the most recent Mermaid.js features.
