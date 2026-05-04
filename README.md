@@ -19,25 +19,24 @@ Public Repositories
 Sudoku Solvers
 --------------
 
-"Why have you wrote so many Sudoku solvers?" - "For fun, and to compare new programming languages as they gain prominence."
+"Why have you written so many Sudoku solvers?" — "For fun, and to compare new programming languages as they gain prominence."
 
-Most use a fairly similar design, but I have tried to be true to the language. I have removed some because I couldn't get through them without saying, "Wow, I don't like this language."
+Most implementations follow a similar design but stay true to each language's idioms. Here's the current collection:
 
-Here they are:
+| Language          | Time (ms) | Status          | Repository |
+|:----------------- | ---------:|:--------------- |:---------- |
+| Rust              | 11        | ✅ Complete     | [sudoku-solver-rust](https://github.com/maxtremaine/sudoku-solver-rust) |
+| Go                | 15        | ✅ Complete     | [sudoku-solver-go](https://github.com/maxtremaine/sudoku-solver-go) |
+| Swift             | 60        | ✅ Complete     | [sudoku-solver-swift](https://github.com/maxtremaine/sudoku-solver-swift) |
+| TypeScript (Deno) | 66        | ✅ Complete     | [sudoku-solver-typescript](https://github.com/maxtremaine/sudoku-solver-typescript) |
+| JavaScript (Node) | 74        | ✅ Complete     | [sudoku-solver-javascript](https://github.com/maxtremaine/sudoku-solver-javascript) |
+| Python            | 77        | ✅ Complete     | [sudoku-solver-python](https://github.com/maxtremaine/sudoku-solver-python) |
+| Pandas            | 1,553     | ✅ Complete     | [solve_with_pandas.py](https://github.com/maxtremaine/sudoku-solver-python/blob/master/solve_with_pandas.py) |
+| Elixir            | TBD       | 🚧 In Progress  | [sudoku-solver-elixir](https://github.com/maxtremaine/sudoku-solver-elixir) |
+| Zig               | TBD       | 🚧 In Progress  | [sudoku-solver-zig](https://github.com/maxtremaine/sudoku-solver-zig) |
 
-|Language                                                                                    | Solve Time @ 54 Blanks (ms) |
-|:------------------------------------------------------------------------------------------ | ---------------------------:|
-| [Rust](https://github.com/maxtremaine/sudoku_solver)                                       |                          11 |
-| [Go](https://github.com/maxtremaine/sudoku_solver.go.git)                                  |                          15 |
-| [Swift](https://github.com/maxtremaine/sudokuSolver.swift)                                 |                          60 |
-| [Deno.ts](https://github.com/maxtremaine/sudokuSolver.ts)                                  |                          66 |
-| [Node.js](https://github.com/maxtremaine/sudokuSolver.js)                                  |                          74 |
-| [Python](https://github.com/maxtremaine/sudoku_solver.py)                                  |                          77 |
-| [Pandas](https://github.com/maxtremaine/sudoku_solver.py/blob/master/solve_with_pandas.py) |                       1,553 |
+**Note:** All solvers use the same human-readable `.sudoku` file format and CLI workflow for easy comparison. A full central guide with benchmarks, format specification, and more details is coming soon.
 
-Next Languages:
-
-- [Elixir](https://github.com/maxtremaine/sudoku_solver.ex)
-- [Zig](https://github.com/maxtremaine/sudoku_solver_zig)
+### Future Languages
 - Scala
 - Elm
